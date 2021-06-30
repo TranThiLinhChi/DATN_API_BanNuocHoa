@@ -1,0 +1,48 @@
+E:\DOAN5\apiTuanHilly1.1\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+E:\DOAN5\apiTuanHilly1.1\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+E:\DOAN5\apiTuanHilly1.1\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\DOAN5\apiTuanHilly1.1\DAL\bin\Debug\netcoreapp3.1\Model.dll
+E:\DOAN5\apiTuanHilly1.1\DAL\bin\Debug\netcoreapp3.1\Model.pdb
+E:\DOAN5\apiTuanHilly1.1\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+E:\DOAN5\apiTuanHilly1.1\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+E:\DOAN5\apiTuanHilly1.1\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+E:\DOAN5\apiTuanHilly1.1\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+E:\DOAN5\apiTuanHilly1.1\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+E:\DOAN5\apiTuanHilly1.1\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+E:\DOAN5\apiTuanHilly1.1\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\DAL\bin\Debug\netcoreapp3.1\Model.dll
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\DAL\bin\Debug\netcoreapp3.1\Model.pdb
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\DAL\bin\Debug\netcoreapp3.1\Model.dll
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\DAL\bin\Debug\netcoreapp3.1\Model.pdb
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+E:\DATN\API-BanNuocHoa\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+E:\DATN\API-BanNuocHoa\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+E:\DATN\API-BanNuocHoa\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\DATN\API-BanNuocHoa\DAL\bin\Debug\netcoreapp3.1\Model.dll
+E:\DATN\API-BanNuocHoa\DAL\bin\Debug\netcoreapp3.1\Model.pdb
+E:\DATN\API-BanNuocHoa\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+E:\DATN\API-BanNuocHoa\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+E:\DATN\API-BanNuocHoa\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+E:\DATN\API-BanNuocHoa\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+E:\DATN\API-BanNuocHoa\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+E:\DATN\API-BanNuocHoa\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+E:\DATN\API-BanNuocHoa\DAL\obj\Debug\netcoreapp3.1\DAL.pdb

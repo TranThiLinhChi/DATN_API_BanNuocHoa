@@ -1,0 +1,56 @@
+E:\DOAN5\apiTuanHilly1.1\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+E:\DOAN5\apiTuanHilly1.1\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+E:\DOAN5\apiTuanHilly1.1\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+E:\DOAN5\apiTuanHilly1.1\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+E:\DOAN5\apiTuanHilly1.1\BLL\bin\Debug\netcoreapp3.1\Model.dll
+E:\DOAN5\apiTuanHilly1.1\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\DOAN5\apiTuanHilly1.1\BLL\bin\Debug\netcoreapp3.1\Model.pdb
+E:\DOAN5\apiTuanHilly1.1\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+E:\DOAN5\apiTuanHilly1.1\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+E:\DOAN5\apiTuanHilly1.1\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+E:\DOAN5\apiTuanHilly1.1\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+E:\DOAN5\apiTuanHilly1.1\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+E:\DOAN5\apiTuanHilly1.1\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+E:\DOAN5\apiTuanHilly1.1\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\BLL\bin\Debug\netcoreapp3.1\Model.dll
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\BLL\bin\Debug\netcoreapp3.1\Model.pdb
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\BLL\bin\Debug\netcoreapp3.1\Model.dll
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\BLL\bin\Debug\netcoreapp3.1\Model.pdb
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+E:\DATN\API-BanNuocHoa\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+E:\DATN\API-BanNuocHoa\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+E:\DATN\API-BanNuocHoa\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+E:\DATN\API-BanNuocHoa\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+E:\DATN\API-BanNuocHoa\BLL\bin\Debug\netcoreapp3.1\Model.dll
+E:\DATN\API-BanNuocHoa\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\DATN\API-BanNuocHoa\BLL\bin\Debug\netcoreapp3.1\Model.pdb
+E:\DATN\API-BanNuocHoa\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+E:\DATN\API-BanNuocHoa\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+E:\DATN\API-BanNuocHoa\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+E:\DATN\API-BanNuocHoa\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+E:\DATN\API-BanNuocHoa\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+E:\DATN\API-BanNuocHoa\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+E:\DATN\API-BanNuocHoa\BLL\obj\Debug\netcoreapp3.1\BLL.pdb

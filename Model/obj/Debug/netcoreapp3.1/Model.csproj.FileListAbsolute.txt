@@ -1,0 +1,36 @@
+E:\DOAN5\apiTuanHilly1.1\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+E:\DOAN5\apiTuanHilly1.1\Model\bin\Debug\netcoreapp3.1\Model.dll
+E:\DOAN5\apiTuanHilly1.1\Model\bin\Debug\netcoreapp3.1\Model.pdb
+E:\DOAN5\apiTuanHilly1.1\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+E:\DOAN5\apiTuanHilly1.1\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+E:\DOAN5\apiTuanHilly1.1\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+E:\DOAN5\apiTuanHilly1.1\Model\obj\Debug\netcoreapp3.1\Model.dll
+E:\DOAN5\apiTuanHilly1.1\Model\obj\Debug\netcoreapp3.1\Model.pdb
+E:\DOAN5\apiTuanHilly1.1\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\Model\bin\Debug\netcoreapp3.1\Model.dll
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\Model\bin\Debug\netcoreapp3.1\Model.pdb
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\Model\obj\Debug\netcoreapp3.1\Model.dll
+E:\DOAN5-master\DOAN5-master\apiTuanHilly1.1\Model\obj\Debug\netcoreapp3.1\Model.pdb
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\Model\bin\Debug\netcoreapp3.1\Model.dll
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\Model\bin\Debug\netcoreapp3.1\Model.pdb
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\Model\obj\Debug\netcoreapp3.1\Model.dll
+D:\ĐATN-Trần Thị Linh Chi\API-BanNuocHoa\Model\obj\Debug\netcoreapp3.1\Model.pdb
+E:\DATN\API-BanNuocHoa\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+E:\DATN\API-BanNuocHoa\Model\bin\Debug\netcoreapp3.1\Model.dll
+E:\DATN\API-BanNuocHoa\Model\bin\Debug\netcoreapp3.1\Model.pdb
+E:\DATN\API-BanNuocHoa\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
+E:\DATN\API-BanNuocHoa\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+E:\DATN\API-BanNuocHoa\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+E:\DATN\API-BanNuocHoa\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+E:\DATN\API-BanNuocHoa\Model\obj\Debug\netcoreapp3.1\Model.dll
+E:\DATN\API-BanNuocHoa\Model\obj\Debug\netcoreapp3.1\Model.pdb
